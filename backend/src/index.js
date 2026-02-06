@@ -21,7 +21,7 @@ app.use(cookieParser());
 app.use(
   cors({
     origin: ["http://localhost:5173",
-    "https://cryptochat-km6y.vercel.app"],
+    "https://cryptochat-q9tv.vercel.app"],
     credentials: true,
   })
 );
