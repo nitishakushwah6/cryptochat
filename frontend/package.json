@@ -12,10 +12,9 @@
   "dependencies": {
     "axios": "^1.7.7",
     "chat-app": "file:..",
-<<<<<<< HEAD
+
     "dotenv": "^17.2.4",
-=======
->>>>>>> 4863c0710b1cd43ae8f8426d9c8937169c174216
+
     "emoji-picker-react": "^4.12.2",
     "lucide-react": "^0.459.0",
     "react": "^18.3.1",
