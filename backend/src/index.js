@@ -21,7 +21,7 @@ app.use(cookieParser());
 app.use(
   cors({
     origin: ["http://localhost:5173",
-    "https://cryptochat-yv21.vercel.app"],
+    "https://cryptochat-yv21.vercel.app/api"],
     credentials: true,
   })
 );
