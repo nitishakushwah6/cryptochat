@@ -8,7 +8,7 @@ const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
     origin: ["http://localhost:5173",
-             "https://cryptochat-q9tv.vercel.app"],
+             "https://cryptochat-km6y-k1yxyr1qb-nitisha-kushwahs-projects.vercel.app"],
   },
 });
 
